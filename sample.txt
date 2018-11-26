@@ -1,2 +1,3 @@
 ABC
 add: da thay doi dang ki
+pull: L?y n?i dung c?a remote repository
