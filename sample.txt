@@ -1,3 +1,4 @@
-ABC
+﻿ABC
 add: da thay doi dang ki
 pull: L?y n?i dung c?a remote repository
+commit: Lưu l?i tr?ng thái c?a index
