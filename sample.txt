@@ -1,4 +1,8 @@
 ﻿ABC
 add: da thay doi dang ki
 pull: L?y n?i dung c?a remote repository
+<<<<<<< HEAD
 commit: Lưu l?i tr?ng thái c?a index
+=======
+pull2: L?y n?i dung c?a remote repository
+>>>>>>> Thêm giải thích pull
